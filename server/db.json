@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "profile": ""
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@peculiar.com",
+      "profile": "Physicist",
+      "id": "egSLoYB"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@peculiar.com",
+      "profile": "Physicist",
+      "id": "au7MiLj"
+    },
+    {
+      "id": "dU4Oj2d"
+    },
+    {
+      "id": "C7QHvny"
+    }
+  ]
+}
